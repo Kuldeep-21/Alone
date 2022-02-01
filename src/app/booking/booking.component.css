@@ -1,0 +1,15 @@
+input.ng-invalid.ng-touched{
+    border: 1px solid red;
+}
+
+.home{
+    background-image: url("../../assets/Image/booking2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:100vh;
+}
+
+.BookingForm{
+    color:black;
+}

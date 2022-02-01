@@ -1,0 +1,19 @@
+.footer{
+    text-align: center;
+    background-color: rgba(46, 45, 45, 0.616);
+    color:aliceblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    bottom: 0px;
+    position: fixed;
+    width:100%;
+}
+
+.footer a {
+    color:#c9c098a9;
+    text-decoration: none;
+}
+
+.footer a:hover{
+    color:red;
+}
